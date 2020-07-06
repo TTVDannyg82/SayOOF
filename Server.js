@@ -22,7 +22,7 @@ message.channel.send(word)
 }
 
 if (cmd === 'help') {
-message.channel.send("The only thing i can do is talk. Do !say {your text} to make me talk!
+message.channel.send("The only thing i can do is talk. Do !say {your text} to make me talk!")
 }
 
 if (cmd === 'embed'){
